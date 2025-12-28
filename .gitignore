@@ -21,6 +21,8 @@
 .metals/
 .bloop/
 .bsp/
+target/
+*.class
 
 # OS files
 .DS_Store
